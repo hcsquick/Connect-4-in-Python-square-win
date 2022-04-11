@@ -1,1 +1,1 @@
-# Connect-4-in-Python-square-win
+# Connect-4-in-Python-square-win-AI
